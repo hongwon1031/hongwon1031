@@ -1,5 +1,6 @@
 ## 안녕하세요 👋
-
+2019 ~ 2024 명지대학교 전자공학과
+2024 ~ MS AI Schoool 6기
 <!--
 **hongwon1031/hongwon1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
