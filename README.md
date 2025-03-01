@@ -1,5 +1,6 @@
 ## 안녕하세요 👋
-![명지대학교 로고](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EB%25AA%2585%25EC%25A7%2580%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590&psig=AOvVaw2tFXDFObTOQihqZUKEGiaS&ust=1740927423719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi6spaS6YsDFQAAAAAdAAAAABAI)
+![명지대학교 로고](/명지.svg)
+
 
 # 2019 ~ 2024 명지대학교 전자공학과
 ![마이크로소프트 로고](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FMicrosoft&psig=AOvVaw1dWVSW2xUVvrt_ReKNRY3L&ust=1740927672632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODjxJKT6YsDFQAAAAAdAAAAABAE)
