@@ -1,9 +1,8 @@
-## 안녕하세요 👋
+# 안녕하세요! 홍원의 프로필입니다👋
+## 교육 이력 
 <img src="/명지.svg" width="100" height="100">
 
-
 # 2019 ~ 2024 명지대학교 전자공학과
-![마이크로소프트 로고](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FMicrosoft&psig=AOvVaw1dWVSW2xUVvrt_ReKNRY3L&ust=1740927672632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODjxJKT6YsDFQAAAAAdAAAAABAE)
 # 2024 ~ MS AI Schoool 6기
 
 - 프로젝트:
