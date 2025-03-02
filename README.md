@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwon1031&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub followers](https://img.shields.io/github/followers/hongwon1031?style=social)
-![GitHub stars](https://img.shields.io/github/stars/hongwon1031?style=social)
