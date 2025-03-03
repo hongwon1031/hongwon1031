@@ -4,8 +4,8 @@
 
 # 2019 ~ 2024 명지대학교 전자공학과
 - 프로젝트:
-  - [2024 딥러닝 프로젝트](https://github.com/hongwon1031/2024_DeepLearning_Project/tree/main)
-  - [창의적 소프트웨어 AI 활용 프로젝트](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
+  - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project/tree/main)
+  - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
   - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
 # 2024 ~ MS AI Schoool 6기
 
