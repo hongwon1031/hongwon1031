@@ -10,7 +10,7 @@
   - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
   - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
 
-## 2024 ~ MS AI Schoool 6기
+## 2024 ~ MS AI Schoool
 
 - 🚀 Project :
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
