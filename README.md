@@ -5,10 +5,7 @@
 <img src="/명지.svg" width="100" height="100">
 !-->
 ## 👀 About Me
-  #### `Name` 윤홍원
-  #### `date of birth` 2000 / 10 / 31
-  #### `Major` Electrical Engineering
-  #### `address` Siheung-si, Gyeonggi-do
+
   #### :🎓 Major in Electrical Engineering at Myungji University (2019 ~ 2024)
   #### :🌐 MS AI Schoool (2024 ~ )
   <br/>
