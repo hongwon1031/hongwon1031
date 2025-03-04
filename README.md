@@ -5,24 +5,26 @@
 <img src="/명지.svg" width="100" height="100">
 !-->
 ## 👀 About Me
+  #### `Name` 윤홍원
+  #### `date of birth` 2000 / 10 / 31
+  #### `Major` Electrical Engineering
+  #### `address` Siheung-si, Gyeonggi-do
   #### :🎓 Major in Electrical Engineering at Myungji University (2019 ~ 2024)
-  
-  <br/>
+  #### :🌐 MS AI Schoool (2024 ~ )
   <br/>
 
-## 2019 ~ 2024 Myungji University
-  #### 🚀 Project :
+## 🚀 Project
+  ### Myungji University
   - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project/tree/main)
   - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
   - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
 
-## 2024 ~ MS AI Schoool
-  #### 🚀 Project :
+  ### MS AI Schoool
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
-  
-  #### 🔬 Study :
-  - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
-  - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
+
+## 🔬 Study :
+- [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
+- [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
 
 ## 🧱 Tech Stack
   ### Language
