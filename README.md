@@ -19,7 +19,6 @@
   - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
   - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hongwon1031" width="600" height="300"/></a>
 
 <!--
 **hongwon1031/hongwon1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,3 +36,6 @@ Here are some ideas to get you started:
 !-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwon1031&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hongwon1031" width="600" height="300"/></a>
+
