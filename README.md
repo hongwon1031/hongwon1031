@@ -4,7 +4,7 @@
 # 교육 이력 
 <img src="/명지.svg" width="100" height="100">
 !-->
-## 2019 ~ 2024 명지대학교 전자공학과
+## 2019 ~ 2024 Myungji University
 - 🚀 Project :
   - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project/tree/main)
   - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
