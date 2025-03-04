@@ -4,20 +4,44 @@
 # 교육 이력 
 <img src="/명지.svg" width="100" height="100">
 !-->
+## 👀 About Me
+  #### :🎓 Major in Electrical Engineering at Myungji University (2019 ~ 2024)
+  
+  <br/>
+  <br/>
+
 ## 2019 ~ 2024 Myungji University
-- 🚀 Project :
+  #### 🚀 Project :
   - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project/tree/main)
   - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest/tree/main)
   - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
 
 ## 2024 ~ MS AI Schoool
-
-- 🚀 Project :
+  #### 🚀 Project :
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
   
-- 🔬 Study :
+  #### 🔬 Study :
   - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
   - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
+
+## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+  ### Library
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-43B02A?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <br/>
+
+## 💻 Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwon1031&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hongwon1031" width="600" height="300"/></a>
+
+
 
 
 <!--
@@ -34,8 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 !-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwon1031&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hongwon1031" width="600" height="300"/></a>
 
