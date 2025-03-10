@@ -36,7 +36,7 @@
   ### ETC
   <img src="https://img.shields.io/badge/Azure-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 💻 Stats
 
