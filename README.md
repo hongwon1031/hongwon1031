@@ -21,6 +21,7 @@
 
 ## 🔬 Study :
 - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
+- [딥러닝 및 머신러닝 복습](https://github.com/hongwon1031/ML_prac)
 - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
 - [데이터분석](https://github.com/hongwon1031/DataFrame)
 - [Html,CSS,JavaScript](https://github.com/hongwon1031/Html)
