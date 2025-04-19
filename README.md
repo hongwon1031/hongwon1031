@@ -10,28 +10,28 @@
   #### :🌐 MS AI Schoool (2024 ~ )
   <br/>
 
-## Recent Project
-### 🏠 공공임대주택 정보 안내 도우미 – **찾아줘 홈즈**
-
-[![hongwon1031/MS_AI_project_2 - 찾아줘 홈즈](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_2&theme=default)](https://github.com/hongwon1031/MS_AI_project_2)
-
-<img src="https://github.com/hongwon1031/MS_AI_project_2/blob/main/홈즈.png" width="800" height="500"/>
-
-> **공공임대주택 신청 공고문 기반 AI 안내 시스템**  
-> Azure 기반 데이터 처리 및 LLM 기반 RAG 시스템을 활용해  
-> 사용자 맞춤형 공공주택 정보를 제공하는 카카오톡 챗봇 플랫폼입니다.
-
-
 ---
 
-#### 🛠️ 기술 스택  
-<img src="https://img.shields.io/badge/Azure OpenAI-3050FF?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Document Intelligence-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure AI Search-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Virtual Machine-3050FF?style=flat-square&logo=&logoColor=white"/><br/>
+## ⚡Latest Project
+### 공공임대주택 정보 안내 도우미 – **찾아줘 홈즈🐶**
+<img src="https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%B0%BE%EC%95%84%EC%A4%98%20%ED%99%88%EC%A6%88.png" width="300" height="100"/>
+
+[![hongwon1031/MS_AI_project_2 - 찾아줘 홈즈](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_2&theme=default)](https://github.com/hongwon1031/MS_AI_project_2)
+> 공공임대주택 신청 공고문을 기반으로  
+> 사용자의 조건에 맞는 정보를 자동으로 추천하고 질의응답까지 수행하는 AI 기반 정보 안내 시스템
+
+- 🧑‍💻 **Role** : LLM 기반 RAG 설계 및 카카오톡 챗봇 연동
+- 📅 **기간** : 2025.04.02 ~ 2025.04.18
+- 🎥 [시연 영상 보기](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+- 📄 [최종 발표 자료 PDF](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%5B%EB%B3%B5%EB%8D%95%EB%B0%A97%5D%EB%B0%9C%ED%91%9C.pdf)
+
+
+#### 🧰 tech stack
+<img src="https://img.shields.io/badge/Azure OpenAI-3050FF?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Document Intelligence-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure AI Search-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Virtual Machine-3050FF?style=flat-square&logo=&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
 
 
-#### 📎 관련 자료
-- 🎥 [시연 영상 보기](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
-- 📄 [최종 발표 자료 PDF](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%5B%EB%B3%B5%EB%8D%95%EB%B0%A97%5D%EB%B0%9C%ED%91%9C.pdf)
+---
 
 ## 🚀 Project
   ### Myungji University
