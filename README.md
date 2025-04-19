@@ -18,6 +18,7 @@
 
   ### MS AI Schoool
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
+  - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
 
 ## 🔬 Study :
 - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
