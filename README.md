@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-43B02A?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
   ### ETC
-  <img src="https://img.shields.io/badge/Azure-3050FF?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
