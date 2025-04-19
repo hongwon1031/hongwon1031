@@ -43,12 +43,15 @@
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
   - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
 
+---
 ## 🔬 Study :
 - [백준 문제풀이](https://github.com/hongwon1031/Baekjoon_Prac)
 - [딥러닝 및 머신러닝 복습](https://github.com/hongwon1031/ML_prac)
 - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
 - [데이터분석](https://github.com/hongwon1031/DataFrame)
 - [Html,CSS,JavaScript](https://github.com/hongwon1031/Html)
+
+---
 ## 🧱 Tech Stack
   ### Language
   <!--Python-->
@@ -63,6 +66,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwon1031&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
+---
 ## 💻 Stats
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwon1031&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
