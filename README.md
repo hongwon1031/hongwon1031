@@ -22,7 +22,7 @@
 
 - 🧑‍💻 **Role** : LLM 기반 RAG 설계 및 카카오톡 챗봇 연동
 - 📅 **기간** : 2025.04.02 ~ 2025.04.18
-- 🎥 [시연 영상 보기](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+- 🎥 [홍보 영상 보기](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 - 📄 [최종 발표 자료 PDF](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%5B%EB%B3%B5%EB%8D%95%EB%B0%A97%5D%EB%B0%9C%ED%91%9C.pdf)
 
 
