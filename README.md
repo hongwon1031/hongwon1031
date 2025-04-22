@@ -6,7 +6,7 @@
 !-->
 ## 👀 About Me
 
-  #### :🎓 Major in Electrical Engineering at Myungji University (2019 ~ 2024)
+  #### :🎓 Major in Electrical Engineering at Myongji University (2019 ~ 2024)
   #### :🌐 MS AI Schoool (2024 ~ )
   <br/>
 
