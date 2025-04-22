@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 Project
-  ### Myungji University
+  ### Myongji University
   - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project)
   - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest)
   - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
