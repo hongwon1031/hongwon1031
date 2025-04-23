@@ -49,6 +49,7 @@
 - [딥러닝 및 머신러닝 복습](https://github.com/hongwon1031/ML_prac)
 - [Python 개념정리](https://github.com/hongwon1031/testRepo/tree/main/12)
 - [데이터분석](https://github.com/hongwon1031/DataFrame)
+- [MLops](https://github.com/hongwon1031/MLops)
 - [Html,CSS,JavaScript](https://github.com/hongwon1031/Html)
 
 ---
