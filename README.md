@@ -14,7 +14,7 @@
 
 ## ⚡Latest Project
 ### 공공임대주택 정보 안내 도우미 – **찾아줘 홈즈🐶**
-<img src="https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%B0%BE%EC%95%84%EC%A4%98%20%ED%99%88%EC%A6%88.png" width="300" height="100"/>
+<img src="https://github.com/hongwon1031/MS_AI_project_2/blob/main/images/%EC%B0%BE%EC%95%84%EC%A4%98%20%ED%99%88%EC%A6%88.png" width="300" height="100"/>
 
 [![hongwon1031/MS_AI_project_2 - 찾아줘 홈즈](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_2&theme=default)](https://github.com/hongwon1031/MS_AI_project_2)
 > 공공임대주택 신청 공고문을 기반으로  
