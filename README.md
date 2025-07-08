@@ -14,22 +14,30 @@
 ---
 
 ## ⚡Latest Project
-### 공공임대주택 정보 안내 도우미 – **찾아줘 홈즈🐶**
-<img src="https://github.com/hongwon1031/MS_AI_project_2/blob/main/images/%EC%B0%BE%EC%95%84%EC%A4%98%20%ED%99%88%EC%A6%88.png" width="300" height="100"/>
+### 우리 가족의 추억보관함 – **메멘토 박스📦**
+<img src="https://github.com/hongwon1031/MS_AI_project_3/blob/main/data/icon.png" width="200" height="200"/>
 
-[![hongwon1031/MS_AI_project_2 - 찾아줘 홈즈](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_2&theme=default)](https://github.com/hongwon1031/MS_AI_project_2)
-> 공공임대주택 신청 공고문을 기반으로  
-> 사용자의 조건에 맞는 정보를 자동으로 추천하고 질의응답까지 수행하는 AI 기반 정보 안내 시스템
+[![hongwon1031/MS_AI_project_2 - 메멘토 박스](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_3&theme=default)](https://github.com/hongwon1031/MS_AI_project_3)
+> 사진 기반 음성 대화를 통해 추억을 회상하고, 피보호자의 목소리로 스토리를 재생하며,<br/>
+> 대화 분석을 통해 이상 징후를 리포트하는 회상 지원 어플리케이션.
 
-- 🧑‍💻 **Role** : LLM 기반 RAG 설계 및 카카오톡 챗봇 연동
-- 📅 **기간** : 2025.04.02 ~ 2025.04.18
-- 🎥 [홍보 영상 보기](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
-- 📄 [최종 발표 자료 PDF](https://github.com/hongwon1031/MS_AI_project_2/blob/main/%5B%EB%B3%B5%EB%8D%95%EB%B0%A97%5D%EB%B0%9C%ED%91%9C.pdf)
+- 🧑‍💻 **Role** : Fish-Speech 파인튜닝 및 서빙, 백엔드 서버 구축
+- 📅 **기간** : 2025.05.07 ~ 2025.06.13
+- 🎥 [홍보 영상 보기](https://github.com/hongwon1031/MS_AI_project_3/blob/main/data/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+- 📄 [최종 발표 자료 PDF](https://github.com/hongwon1031/MS_AI_project_3/blob/main/data/3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20PPT.pdf)
 
 
 #### 🧰 tech stack
-<img src="https://img.shields.io/badge/Azure OpenAI-0078D4?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Document Intelligence-0078D4?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure AI Search-0078D4?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Virtual Machine-0078D4?style=flat-square&logo=&logoColor=white"/> <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Azure OpenAI-0078D4?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Blob Storage-0078D4?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Speech-0078D4?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Azure Virtual Machine-0078D4?style=flat-square&logo=&logoColor=white"/> <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kakao SDK-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/> 
 
 
 ---
