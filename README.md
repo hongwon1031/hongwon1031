@@ -43,6 +43,7 @@
   ### MS AI Schoool
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
   - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
+  - [MS AI 6기 3번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_3)
 
 ---
 ## 🔬 Study :
