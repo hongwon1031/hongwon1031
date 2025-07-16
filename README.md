@@ -43,16 +43,19 @@
 ---
 
 ## 🚀 Project
-  ### Myongji University
-  - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project)
-  - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest)
-  - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
+  
 
   ### MS AI Schoool
-  - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
-  - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
   - [MS AI 6기 3번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_3)
+  - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
+  - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
+  
 
+  ### Myongji University
+  - [인공지능 패션추천 및 가상피팅 시스템](https://github.com/hongwon1031/AI-based-Style-Recommendation-System)
+  - [PCB 기판 Warpage 예측](https://github.com/hongwon1031/Myungji_AI_Contest)
+  - [쓰레기 자동 분류 시스템](https://github.com/hongwon1031/2024_DeepLearning_Project)
+  
 ---
 ## 🔬 Study :
 - [MLops](https://github.com/hongwon1031/MLops)
