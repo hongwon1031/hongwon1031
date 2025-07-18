@@ -17,7 +17,7 @@
 ### 우리 가족의 추억보관함 – **메멘토 박스📦**
 <img src="https://github.com/hongwon1031/MS_AI_project_3/blob/main/data/icon.png" width="200" height="200"/>
 
-[![hongwon1031/MS_AI_project_2 - 메멘토 박스](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=MS_AI_project_3&theme=default)](https://github.com/hongwon1031/MS_AI_project_3)
+[![hongwon1031/MS_AI_project_2 - 메멘토 박스](https://github-readme-stats.vercel.app/api/pin/?username=hongwon1031&repo=Memento-Box&theme=default)](https://github.com/hongwon1031/Memento-Box)
 > 사진 기반 음성 대화를 통해 추억을 회상하고, 피보호자의 목소리로 스토리를 재생하며,<br/>
 > 대화 분석을 통해 이상 징후를 리포트하는 회상 지원 어플리케이션.
 
@@ -46,7 +46,7 @@
   
 
   ### MS AI Schoool
-  - [MS AI 6기 3번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_3)
+  - [MS AI 6기 3번째 프로젝트](https://github.com/hongwon1031/Memento-Box)
   - [MS AI 6기 2번째 프로젝트](https://github.com/hongwon1031/MS_AI_project_2)
   - [MS AI 6기 1번째 프로젝트](https://github.com/hongwon1031/MS_AI_Project_1)
   
